@@ -19,4 +19,4 @@ i made the examples and modifying them in my own way, when read python stock dat
 - 현재 진행 중 입니다.
 
 ## 😏 프로젝트 시작법 / how to start project
-``` python runserver ```
+``` python manage.py runserver ```
