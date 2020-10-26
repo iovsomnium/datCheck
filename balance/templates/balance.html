@@ -1,0 +1,30 @@
+{% load static %}
+<html>
+    <head>
+        <title>Balance: {{total}}</title> <!--타이틀 영역에 계좌 잔고를 표시한다.-->
+        <link rel="stylesheet" href="{% static 'balance/b_style.css' %}" />
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>종목명</th>
+                <th>종목코드</th>
+                <th>현재가</th>
+                <th>주식수</th>
+                <th>등락률</th>
+                <th>평가금액</th>
+            </tr>
+            {% for row in rows %}
+            <tr>
+                {% for x in row %}
+                <td>{{ x }}</td> <!--중첩 for 태그를 통해 중첩된 리스트 rows의 모든 원소{{x}} 출력-->
+                {% endfor %}
+            </tr>
+            {% endfor %}
+            <tr>
+                <th colspan="3">계좌 잔고</th>
+                <th colspan="3">{{ total }}</th> <!--3개 칼럼을 하나로 통합해 계좌 잔고 total을 표시한다.-->
+            </tr>
+        </table>
+    </body>
+</html>
