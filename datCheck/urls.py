@@ -15,9 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from mainPage import views as index_views
+from balance import views as balance_views
 from django.urls import path,re_path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('mainPage/', index_views.helloWorld)
+    path('mainPage/', index_views.mainView),
+    path('balance/', balance_views.mainView)
 ]
