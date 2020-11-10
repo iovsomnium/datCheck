@@ -9,7 +9,7 @@
 ## ❓ Purpose / 목적
 i made the examples and modifying them in my own way, when read python stock data analysis. also I invest stock so i want informations 
 
-파이썬 증권 데이터 분석을 읽으면서 나오는 예제를 구현해보고 제 방식대로 수정하고 있습니다. 또한 주식에 투자하기에 정보가 필요했습니다.
+파이썬 증권 데이터 분석을 읽으면서 나오는 예제를 구현해보고 제 방식대로 수정하고 있습니다. 또한 주식에 투자하기에 정보를 다뤄보고 싶어서 프로젝트를 시작하였습닏.
   
 
 ## 🎁 Function / 기능
