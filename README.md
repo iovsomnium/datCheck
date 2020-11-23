@@ -1,6 +1,6 @@
 ## ❗ Before you see this project, / 이 프로젝트를 보기 전에
-### I want practice English so write with English. When you read this, little bit look so weird cause I don't used translate I ask for understanding on that point. Thanks.
-### 작성자는 한국인으로 영어를 연습하기 위해 영어도 같이 적어져 있습니다. 번역기를 이용하지 않기에 다소 어눌한 것에 양해를 구합니다.
+### writer want practice English so write with that. When you read this, little bit look so weird cause I don't used translate I ask for understanding on that point. Thanks.
+### 영어연습을 위해 영어로 문서를 적었습니다. 번역기를 이용하지 않기에 다소 어눌한 것에 양해를 구합니다.
 
 # 🔒Project : datCheck / 프로젝트 : 댓체크
 ### Mean : dat(a) + check
@@ -13,13 +13,13 @@ i made the examples and modifying them in my own way, when read python stock dat
   
 
 ## 🎁 Function / 기능
-- [x]주식 표시 / checking stock
-- [ ]주식 검색 / searching stock
+- [x] 주식 표시 / checking stock
+- [ ] 주식 검색 / searching stock
 - etc...
 
 ## 🤔 Result / 결과물
 - 현재 간단한 주식을 표시 중입니다.
-<img width="200" alt="스크린샷 2020-09-07 오후 5 20 57" src="https://user-images.githubusercontent.com/51693390/92367171-0bb00d00-f131-11ea-949b-fd697afc581b.jpg">
+<img width="200" alt="example" src="https://user-images.githubusercontent.com/51693390/99922604-c20cb100-2d74-11eb-95eb-7fb20ea77136.png">
 
 ## 😏 프로젝트 시작법 / how to start project
 ``` python manage.py runserver ```
