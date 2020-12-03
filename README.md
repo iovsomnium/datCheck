@@ -1,5 +1,5 @@
 ## ❗ Before you see this project, / 이 프로젝트를 보기 전에
-### writer want practice English so write with that. When you read this, little bit look so weird cause I don't used translate I ask for understanding on that point. Thanks.
+### writer want practice English so write with English. When you read this, little bit look so weird cause I don't used translate I ask for understanding on that point. Thanks.
 ### 영어연습을 위해 영어로 문서를 적었습니다. 번역기를 이용하지 않기에 다소 어눌한 것에 양해를 구합니다.
 
 # 🔒Project : datCheck / 프로젝트 : 댓체크
@@ -14,7 +14,7 @@ i made the examples and modifying them in my own way, when read python stock dat
 
 ## 🎁 Function / 기능
 - [x] 주식 표시 / checking stock
-- [ ] 주식 검색 / searching stock
+- [x] 주식 검색 / searching stock - in url
 - etc...
 
 ## 🤔 Result / 결과물
